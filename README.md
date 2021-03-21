@@ -118,6 +118,3 @@ Part of our code is borrowed from the following repositories.
 - [VideoPose3D](https://github.com/facebookresearch/VideoPose3D)
 
 We thank to the authors for releasing their codes. Please also consider citing their works.
-# Semgcn-3d-humanpose
-# Semgcn-3d-humanpose
-# semgcn-human-pose-3d
